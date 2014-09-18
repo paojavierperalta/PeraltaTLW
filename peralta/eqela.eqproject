@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Peralta
+#
+
+projectname: Peralta
+vendorid: Sem1Peralta
+mainmodule: Sem1Peralta.peralta
